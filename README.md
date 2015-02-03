@@ -6,4 +6,4 @@ Clone the repository, move the Spotify folder to your Skins folder.
 (Documents/Rainmeter/Skins/)
 
 ##Preview
-![preview](spotifyPluging.jpg)
+![preview](spotifyPlugin.jpg)
